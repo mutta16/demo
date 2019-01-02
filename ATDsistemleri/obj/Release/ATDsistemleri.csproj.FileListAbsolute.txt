@@ -1,0 +1,17 @@
+C:\Users\ATD\documents\visual studio 2012\Projects\ATDsistemleri\ATDsistemleri\bin\Release\ATDsistemleri.exe.config
+C:\Users\ATD\documents\visual studio 2012\Projects\ATDsistemleri\ATDsistemleri\bin\Release\AtdSistemleriDatabase.sdf
+C:\Users\ATD\documents\visual studio 2012\Projects\ATDsistemleri\ATDsistemleri\bin\Release\ATDsistemleri.exe
+C:\Users\ATD\documents\visual studio 2012\Projects\ATDsistemleri\ATDsistemleri\bin\Release\ATDsistemleri.pdb
+C:\Users\ATD\documents\visual studio 2012\Projects\ATDsistemleri\ATDsistemleri\obj\Release\ATDsistemleri.amirPanel.resources
+C:\Users\ATD\documents\visual studio 2012\Projects\ATDsistemleri\ATDsistemleri\obj\Release\ATDsistemleri.AyarPaneli.resources
+C:\Users\ATD\documents\visual studio 2012\Projects\ATDsistemleri\ATDsistemleri\obj\Release\ATDsistemleri.C2Adet.resources
+C:\Users\ATD\documents\visual studio 2012\Projects\ATDsistemleri\ATDsistemleri\obj\Release\ATDsistemleri.Form1.resources
+C:\Users\ATD\documents\visual studio 2012\Projects\ATDsistemleri\ATDsistemleri\obj\Release\ATDsistemleri.LogPaneli.resources
+C:\Users\ATD\documents\visual studio 2012\Projects\ATDsistemleri\ATDsistemleri\obj\Release\ATDsistemleri.opPanel.resources
+C:\Users\ATD\documents\visual studio 2012\Projects\ATDsistemleri\ATDsistemleri\obj\Release\ATDsistemleri.Properties.Resources.resources
+C:\Users\ATD\documents\visual studio 2012\Projects\ATDsistemleri\ATDsistemleri\obj\Release\ATDsistemleri.uyeRaporPaneli.resources
+C:\Users\ATD\documents\visual studio 2012\Projects\ATDsistemleri\ATDsistemleri\obj\Release\ATDsistemleri.csproj.GenerateResource.Cache
+C:\Users\ATD\documents\visual studio 2012\Projects\ATDsistemleri\ATDsistemleri\obj\Release\RdlCompile.cache
+C:\Users\ATD\documents\visual studio 2012\Projects\ATDsistemleri\ATDsistemleri\obj\Release\RdlCompile.compiled
+C:\Users\ATD\documents\visual studio 2012\Projects\ATDsistemleri\ATDsistemleri\obj\Release\ATDsistemleri.exe
+C:\Users\ATD\documents\visual studio 2012\Projects\ATDsistemleri\ATDsistemleri\obj\Release\ATDsistemleri.pdb
