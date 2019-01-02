@@ -1,0 +1,14 @@
+-	Isý Kontrolü
+-	Seviye Kontrolü
+-	Kirlilik Kontrolü
+-	Ýletkenlik
+-	Basýnç Giriþ/Çýkýþ
+
+-----------------------------------------
+
+
+-	Sýcaklýk, PH, Ýletkenlik
+-	Konsantrasyon
+-	Sertlik
+-	Klor
+-	Nitrit
