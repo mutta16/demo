@@ -1,13 +1,15 @@
--	Isı Kontrolü
--	Seviye Kontrolü
--	Kirlilik Kontrolü
--	İletkenlik
--	Basınç Giriş/Çıkış
+-	IsÄ± KontrolÃ¼
+-	Seviye KontrolÃ¼
+-	Kirlilik KontrolÃ¼
+-	Ä°letkenlik
+-	BasÄ±nÃ§ GiriÅŸ/Ã‡Ä±kÄ±ÅŸ
+
+********************************
 
 -----------------------------------------
 
 
--	Sıcaklık, PH, İletkenlik
+-	SÄ±caklÄ±k, PH, Ä°letkenlik
 -	Konsantrasyon
 -	Sertlik
 -	Klor
