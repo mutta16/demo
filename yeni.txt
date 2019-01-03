@@ -1,10 +1,10 @@
--	Isı Kontrolü
+﻿-	Isı Kontrolü
 -	Seviye Kontrolü
 -	Kirlilik Kontrolü
 -	İletkenlik
 -	Basınç Giriş/Çıkış
 
-********************************
+
 
 -----------------------------------------
 
